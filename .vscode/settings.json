@@ -1,0 +1,21 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-21.0.1\\lib\\javafx.base.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-21.0.1\\lib\\javafx.controls.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-21.0.1\\lib\\javafx.fxml.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-21.0.1\\lib\\javafx.graphics.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-21.0.1\\lib\\javafx.media.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-21.0.1\\lib\\javafx.swing.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-21.0.1\\lib\\javafx.web.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-21.0.1\\lib\\javafx-swt.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-17.0.9\\lib\\javafx.base.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-17.0.9\\lib\\javafx.controls.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-17.0.9\\lib\\javafx.fxml.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-17.0.9\\lib\\javafx.graphics.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-17.0.9\\lib\\javafx.media.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-17.0.9\\lib\\javafx.swing.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-17.0.9\\lib\\javafx.web.jar",
+        "d:\\UNIVERSITAS PANCASILA\\semester 3\\P. Berorientasi Objek\\4522210076_Bahrudin Yusuf\\javafx-sdk-17.0.9\\lib\\javafx-swt.jar"
+    ]
+}
